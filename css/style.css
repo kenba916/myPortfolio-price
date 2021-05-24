@@ -492,6 +492,10 @@ contact
   color: #f00;
 }
 
+.price-top {
+    text-align: right;
+}
+
 .banner-title {
   position: relative;
   font-family: "Montserrat", sans-serif;
